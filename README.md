@@ -2,5 +2,8 @@
 Simple blog site <br />
 run npm install to install the necessary packages <br />
 Node app.js will start the server at Port 3000. <br />
-/work is a todo-list independent of the first one. <br />
+<br /> <br />
+This Site is also deployed at https://guarded-crag-72262.herokuapp.com/
+<br /> <br /> 
+You can visit /compose to create new posts
  
