@@ -1,4 +1,18 @@
 # Blogv1
+<br /><br />
+Update v2.1<br />
+Major Bug fix<br />
+It was crashing when Capital letters or more than a word was made the post title. <br />
+Now it is fixed using Lodash.<br />
+
+<br />
+--------------------
+Updated to v2.0 <br />
+Now it is linked with Mongo Atlas, and using mongoose now the posts are stored in databases. <br />
+You can delete the post using the button in the page ```/posts/xyz``` or visit it by clicking "read more" beside the substring. <br />
+The deployment link is down. <br />
+
+-------------------
 Simple blog site <br />
 run npm install to install the necessary packages <br />
 Node app.js will start the server at Port 3000. <br />
