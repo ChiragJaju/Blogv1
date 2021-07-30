@@ -9,11 +9,12 @@ Now it is fixed using Lodash.
 -------------------
 Updated to v2.0 <br />
 Now it is linked with Mongo Atlas, and using mongoose now the posts are stored in databases. <br />
+Earlier it was using arrays to store the posts.<br />
 You can delete the post using the button in the page ```/posts/xyz``` or visit it by clicking "read more" beside the substring. <br />
 The deployment link is down. <br />
 
 -------------------
-Simple blog site <br />
+Simple blog site v1.0 <br />
 run npm install to install the necessary packages <br />
 Node app.js will start the server at Port 3000. <br />
 <br /> <br />
