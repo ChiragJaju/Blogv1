@@ -1,7 +1,7 @@
 {
   "name": "ejs-challenge",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple blog site Node app.js will start the server at Port 3000. /work is a todo-list independent of the first one.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,6 +12,8 @@
     "body-parser": "^1.18.3",
     "ejs": "^2.7.4",
     "express": "^4.17.1",
-    "lodash": "^4.17.21"
-  }
+    "lodash": "^4.17.21",
+    "mongoose": "^5.13.4"
+  },
+  "keywords": []
 }
